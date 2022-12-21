@@ -3,12 +3,13 @@
 
 ## 基本使用指南
 - [外观设置](https://qileq.com/tool/obsidian/how-to/appearance/)
-- [使用技巧](https://qileq.com/tool/obsidian/how-to/note/)
+- [使用技巧](https://qileq.com/tool/obsidian/how-to/use)
+- [Obsidian 免费同步方案](https://qileq.com/tool/obsidian/how-to/sync-by-git/)
 
 ## 插件推荐
 - [dataview](https://qileq.com/tool/obsidian/plugins/dataview/)
 - [Excalidraw](https://qileq.com/tool/obsidian/plugins/excalidraw/)
 
 ## 案例
-- [使用模板提高效率](https://qileq.com/tool/obsidian/usecase/template/))
+- [使用模板提高效率](https://qileq.com/tool/obsidian/usecase/template/)
 - [使用 Obsidian 打造阅读系统](https://qileq.com/tool/obsidian/usecase/read-system/)
